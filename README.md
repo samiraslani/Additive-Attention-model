@@ -8,11 +8,11 @@ Furthermore, the file [nmt_utils.py](nmt_utils.py/) creates the arbitary human-r
 We will then apply the attention procedure to train a sentiment analysis model based on two datasets: 
 - [Canva_reviews.xlsx](Canva_reviews.xlsx/): 
 
-This dataset contains 1500 customer feedbacks for the app Canva and is part of the project "Build Multi Class Text Classification Models with RNN and LSTM" from [ProjectPro](https://www.projectpro.io/). We will use two embeddings for words one with one-hot vectors and another with GloVe embeddings. To check the resutls please check the file (Additiveattn+1125data.ipynb)[Additiveattn+1125data.ipynb/]. 
+This dataset contains 1500 customer feedbacks for the app Canva and is part of the project "Build Multi Class Text Classification Models with RNN and LSTM" from [ProjectPro](https://www.projectpro.io/). We will use two embeddings for words one with one-hot vectors and another with GloVe embeddings. To check the resutls please check the file [Additiveattn+1125data.ipynb](Additiveattn+1125data.ipynb/). 
 
 - [CustomerFeedback.xlsx](CustomerFeedback.xlsx/)
 
-This dataset contains 100 customer feedbacks manually built initally to train a simple RNN model; the accuracy of the model did not surpass 70% on the training dataset and 43% on the testing dataset. The additive attention model is then applied to the model and performs exceptionally well even with a very limited training dataset. The results can be found [here](Addatten_100.ipynb/).
+This dataset contains 100 customer feedbacks manually built initally to train a simple RNN model; the accuracy of the model did not surpass 70% on the training dataset and 43% on the testing dataset. The additive attention model is then applied to the model and performs exceptionally well even with a very limited training dataset. The results can be found [Addatten_100.ipynb](Addatten_100.ipynb/).
 
 
 
