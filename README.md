@@ -29,6 +29,7 @@ We apply the attention mechanism to sentiment analysis using two datasets:
 
 2. **CustomerFeedback.xlsx**
    - **Description**: Contains 100 manually created customer feedback entries. Initially used to train a basic RNN model, which did not surpass an accuracy of 90% on the training set and 43% on the testing set.
+   - **Embeddings Used**: One-hot vectors and GloVe embeddings.
    - **Results**: Applying the additive attention model showed significant improvement. Detailed results are available in [Addatten_100.ipynb](Addatten_100.ipynb/).
 
 ## Getting Started
