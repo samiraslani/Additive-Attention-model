@@ -53,7 +53,7 @@ If you’d like to contribute to this project, please fork the repository and su
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](link-to-license) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://opensource.org/licenses/MIT) file for details.
 
 ## Acknowledgments
 
