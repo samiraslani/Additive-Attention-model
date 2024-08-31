@@ -1,4 +1,4 @@
-# Attention Model for Date Translation and Sentiment Analysis
+# Additive Attention Model
 
 ## Project Overview
 
