@@ -15,7 +15,7 @@ The primary component is a machine translation model utilizing an attention mech
 ### Utilities
 
 - **`nmt_utils.py`**: Contains functions to generate arbitrary human-readable dates for training the model.
-- **Notes.pdf.**: Contains detailed complementary notes on the attention model. 
+- **`Notes.pdf`**: Contains detailed complementary notes on the attention model. 
 
 
 ### Sentiment Analysis
